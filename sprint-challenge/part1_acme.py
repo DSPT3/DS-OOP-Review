@@ -63,11 +63,11 @@ class BoxingGlove(Product):
         self.flannability = flannability
         self.identifier = randint(1000000 , 9999999)
             #change the price for giggles, and did not work. further investagation needed.  
-        def explode(self):
+    def explode(self):
        # """A doc string needs to be here?Nah"""
             return "...it's a glove."
         
-            def punch(self):
+    def punch(self):
                 #you are not working, futher investagtion needed...
                 """a method of a BoxingGLove"""
                 if self.weight < 5:
