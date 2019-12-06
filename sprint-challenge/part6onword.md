@@ -7,7 +7,7 @@ code reviews are important because we can learn to read others code. we can help
   
 - How could containers help us
   improve this situation?
- containers help us run code despite the computer that is using it.Why do I need 5 sentences to explain that?
- 
+ containers help us run code despite the OS of the user. 
+ They give control and isolation to software upon network deployment. Helps limit memory and storage a software can use.Containers such as dockers allow control autherization outside of the software. The before and after of containers is a big difference. 
  
  
